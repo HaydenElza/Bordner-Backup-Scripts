@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------------------------------
 # Script name: BordnerBackup
-# Created on: Jan 25, 20015
+# Created on: Jan 25, 2015
 # Author: Hayden Elza
 # Purpose: 	This script is intended for use in backing up the bordner data, including geodatabases.
 #			A log file is kept to track potential errors.
