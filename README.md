@@ -1,6 +1,8 @@
 #Bordner Scripts
 We are currently working to digitized the Bordner surveys of Wisconsin. Through this process there is a need for various scripts and tools to complete necessary tasks.
 
+----------------------------
+
 ##Backup Scripts
 A collection of scripts used to periodically backup data for a project.
 
@@ -22,6 +24,8 @@ Differences between scripts and notes:
 ###Bordner Backup Other
 
 This script is to backup a collection of other files and folders that is specified in a list. To apply this to other projects modify the temp directories and target location similar to the above scripts, but also modify the "SourceList" variable to suit your needs.
+
+----------------------------
 
 ##Remove Extra Domains
 This script is meant to delete incorrect (non-default) domains from our Bordner project geodatabases. To do this, the script first removes all domains from the fields so that the domain can be deleted. This itereates over all feature classes and fields within those feature classes.
